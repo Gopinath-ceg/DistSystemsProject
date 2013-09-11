@@ -32,4 +32,8 @@ License
 Licensed under the GNU GPLv3
 Read the License File for details. 
 
-Copyright (C) 2013  Prashant Anantharaman
+
+DistSystemsProject Copyright (C) 2013 Prashant Anantharaman
+This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+This is free software, and you are welcome to redistribute it
+under certain conditions; type `show c' for details.
