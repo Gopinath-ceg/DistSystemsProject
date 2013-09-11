@@ -17,8 +17,8 @@ Apart from that there is nothing so great
 Running it
 ---------
 - Get Ruby using one of the following ways
-1. Windows: Ruby installer for windows
-2. Unix Family (Mac OSX, Linux) : Use Rbenv or Rvm Ruby version managers. 
+	+ Windows: Ruby installer for windows
+	+ Unix Family (Mac OSX, Linux) : Use Rbenv or Rvm Ruby version managers. 
 
 - Run the server : 
 $ ruby server.rb
