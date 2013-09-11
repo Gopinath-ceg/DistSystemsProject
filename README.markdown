@@ -29,5 +29,7 @@ $ ruby client.rb
 
 License
 -----------
-Licensed under the GNU GPLv3 . 
-(c) Prashant Anantharaman, 2014. Licensed Under GNU - GPL v3. 
+Licensed under the GNU GPLv3
+Read the License File for details. 
+
+Copyright (C) 2013  Prashant Anantharaman
