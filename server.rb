@@ -18,7 +18,7 @@ class Counter
 	end
 end
 
-DRb.start_service 'druby://:9000', Counter.new
+DRb.start_service 'druby://:9000', Counter.new # Port can be changed. Make the change in the client as well
 puts "Server running at #{DRb.uri}"
 
 trap("INT") { DRb.stop_service }
