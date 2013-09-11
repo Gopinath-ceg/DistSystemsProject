@@ -2,7 +2,6 @@ Code Judge
 ==================
 
 Project in Ruby
-<<<<<<< HEAD
 ----------
 Ruby version 2.0.0
 
@@ -31,13 +30,4 @@ $ ruby client.rb
 License
 -----------
 Licensed under the GNU GPLv3 . 
-(c) Prashant Anantharaman 2013
-=======
-Implementing RMI on Ruby. Running a shall script on the server and returning the output to client. 
-
-
-
-
-
 (c) Prashant Anantharaman, 2014. Licensed Under GNU - GPL v3. 
->>>>>>> 60066d6157287b3a02fae1b5586fa125f84a2466
